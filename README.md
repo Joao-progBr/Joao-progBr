@@ -1,4 +1,4 @@
-## Ola! Seja bem-vindo! Meu nome é João🙋🏻‍♂️ e eu estou a prrocura de um estágio
+## Olá! Seja bem-vindo! Meu nome é João🙋🏻‍♂️ e eu estou a procura de um estágio😉
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/jo%C3%A3ovictor019/">
