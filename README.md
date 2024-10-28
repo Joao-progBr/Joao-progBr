@@ -1,11 +1,17 @@
-## Olá! Seja bem-vindo! Meu nome é João🙋🏻‍♂️ e eu estou a procura de um estágio😉
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá🙋🏻‍♂️,+Seja+bem-vindo!+Meu+nome+é+João+;Sou+de+Campinas-SP;Estou+a+procura+de+um+estágio😁)](https://git.io/typing-svg) 
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/jo%C3%A3ovictor019/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-progBr&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="João Assis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-progBr&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF00FF&bg_color=0d1117" />
+</div>
 
-# 💻 Tech Stack:
+<br><hr>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovictor019/)
+ 
+ 
+# 💻 Minhas Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,12 +26,29 @@
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 [![Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joao-progBr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joao-progBr&theme=synthwave&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-progBr&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
+### O que estou estudando no momento:
+<ul >
+  <li color="#FF00FF">
+    <p >Boas práticas de CSS, utilizando a metologia SMACSS e BEM.</p>
+  </li>
+  <li>
+    <p color="#FF00FF">Praticando mais com o Grunt, Gulp, Sass e Less, para solidificar meu conhecimento.</p>
+  </li>
+</ul>
 
----
-[![](https://visitcount.itsvg.in/api?id=Joao-progBr&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center"><br>
+  <p align="center" color="#FF00FF">
+    <b>Visitors Count
+    </b>
+  </p>  
+  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{Joao-progBr}/count.svg"/>
+  </p> 
+  <br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
