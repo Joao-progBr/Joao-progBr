@@ -30,10 +30,7 @@
 ### O que estou estudando no momento:
 <ul >
   <li color="#FF00FF">
-    <p >Boas práticas de CSS, utilizando a metologia SMACSS e BEM.</p>
-  </li>
-  <li>
-    <p color="#FF00FF">Praticando mais com o Grunt, Gulp, Sass e Less, para solidificar meu conhecimento.</p>
+    <p >Criação de e-mails </p>
   </li>
 </ul>
 
