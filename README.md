@@ -30,7 +30,7 @@
 ### O que estou estudando no momento:
 <ul >
   <li color="#FF00FF">
-    <p >Criação de e-mails </p>
+    <p>Atualmente, estou consolidando meus conhecimentos em desenvolvimento web Front-end, criando landing pages como projetos           práticos. Essas páginas me permitem aplicar conceitos aprendidos, desde HTML,CSS, JS, GULP, SASS, ou seja, conhecimentos            adquiridos em cada tecnologia que eu estudei ao longo do tempo. Cada projeto é uma oportunidade para aprofundar meu                 aprendizado e explorar diferentes abordagens na construção de interfaces atraentes e funcionais.</p>
   </li>
 </ul>
 
