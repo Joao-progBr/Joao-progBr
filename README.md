@@ -27,13 +27,57 @@
 [![Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 
   
-### O que estou estudando no momento:
-<ul >
-  <li color="#FF00FF">
-    <p>Atualmente, estou estudando JavaScript e outros recursos como o ES6+, anotando e botando a mão na massa!</p>
-  </li>
-</ul>
+📚 O que estou estudando no momento
+<details>
+  <summary><strong>JavaScript (ES6+)</strong> 📘</summary> 
+  <ul> 
+    <li>Estou com foco em me aprofundar mais em JS, anotando e botando a mão na massa!</li>
+     <ul>
+      <li>Foco em lógica</li> 
+      <li>Manipulação do DOM</li> 
+      <li>Recursos modernos (ES6+)</li> 
+      <li>Prática com exercícios e projetos</li>
+     </ul>
+  </ul>
+</details>
 
+✅ O que já estudei
+<details> 
+  <summary><strong>Fundamentos Web</strong> 🌐</summary> 
+  <ul>
+    <li>HTML5</li> 
+    <li>CSS3</li> 
+    <li>JavaScript</li> 
+    <li>DOM</li> 
+  </ul> 
+</details> 
+<details> 
+  <summary><strong>Outras Ferramentas e Metodologias</strong> 🧰</summary> 
+  <ul> 
+    <li>Pré-processadores CSS: SASS e LESS</li> 
+    <li>Metodologia BEM</li>
+    <li>Automação com Gulp e Grunt</li>
+    <li>Git e GitHub</li> 
+    <li>Bootstrap</li> 
+    <li>jQuery (básico)</li> 
+    <li>NPM SCRIPTS</li>
+  </ul> 
+</details>
+
+🚀 Próximos passos
+<details> 
+  <summary><strong>Foco em frameworks e testes</strong> ⚙️</summary>
+  <ul> 
+    <li>TypeScript</li> 
+    <li>Vue.js</li> 
+    <li>React</li>
+    <li>Bibliotecas de testes (como Jest)</li>
+    <li>Consumo de APIs REST</li> 
+    <li>Figma</li> 
+    <li>UI/UX</li> 
+    <li>Inglês</li> 
+  </ul>
+</details>
 
 <div align="center"><br>
   <p align="center" color="#FF00FF">
