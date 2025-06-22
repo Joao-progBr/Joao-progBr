@@ -20,7 +20,6 @@
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
@@ -38,44 +37,6 @@
       <li>Recursos modernos (ES6+)</li> 
       <li>Prática com exercícios e projetos</li>
      </ul>
-  </ul>
-</details>
-
-✅ O que já estudei
-<details> 
-  <summary><strong>Fundamentos Web</strong> 🌐</summary> 
-  <ul>
-    <li>HTML5</li> 
-    <li>CSS3</li> 
-    <li>JavaScript</li> 
-    <li>DOM</li> 
-  </ul> 
-</details> 
-<details> 
-  <summary><strong>Outras Ferramentas e Metodologias</strong> 🧰</summary> 
-  <ul> 
-    <li>Pré-processadores CSS: SASS e LESS</li> 
-    <li>Metodologia BEM</li>
-    <li>Automação com Gulp e Grunt</li>
-    <li>Git e GitHub</li> 
-    <li>Bootstrap</li> 
-    <li>jQuery (básico)</li> 
-    <li>NPM SCRIPTS</li>
-  </ul> 
-</details>
-
-🚀 Próximos passos
-<details> 
-  <summary><strong>Foco em frameworks e testes</strong> ⚙️</summary>
-  <ul> 
-    <li>TypeScript</li> 
-    <li>Vue.js</li> 
-    <li>React</li>
-    <li>Bibliotecas de testes (como Jest)</li>
-    <li>Consumo de APIs REST</li> 
-    <li>Figma</li> 
-    <li>UI/UX</li> 
-    <li>Inglês</li> 
   </ul>
 </details>
 
