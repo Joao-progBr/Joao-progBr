@@ -26,20 +26,6 @@
 [![Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 
   
-📚 O que estou estudando no momento
-<details>
-  <summary><strong>JavaScript (ES6+)</strong> 📘</summary> 
-  <ul> 
-    <li>Estou com foco em me aprofundar mais em JS, anotando e botando a mão na massa!</li>
-     <ul>
-      <li>Foco em lógica</li> 
-      <li>Manipulação do DOM</li> 
-      <li>Recursos modernos (ES6+)</li> 
-      <li>Prática com exercícios e projetos</li>
-     </ul>
-  </ul>
-</details>
-
 <div align="center"><br>
   <p align="center" color="#FF00FF">
     <b>Visitors Count
