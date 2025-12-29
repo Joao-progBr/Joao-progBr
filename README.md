@@ -2,10 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Olá🙋🏻‍♂️,+Seja+bem-vindo!+Meu+nome+é+João+;Sou+de+Campinas-SP+e+futuro+desenvolvedor+front-end;)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Joao-progBr&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="João Assis github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-progBr&layout=compact&hide_border=true&title_color=FF00FF&text_color=FF00FF&bg_color=0d1117" />
-</div>
 
 <br><hr>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3ovictor019/)
@@ -27,10 +23,6 @@
 
   
 <div align="center"><br>
-  <p align="center" color="#FF00FF">
-    <b>Visitors Count
-    </b>
-  </p>  
   
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{Joao-progBr}/count.svg"/>
