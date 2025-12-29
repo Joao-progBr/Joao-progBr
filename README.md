@@ -22,13 +22,7 @@
 [![Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
 
   
-<div align="center"><br>
-  
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Joao-progBr}/count.svg"/>
-  </p> 
-  <br>
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
